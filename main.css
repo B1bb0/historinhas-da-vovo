@@ -102,6 +102,10 @@ body {
     margin-bottom: 48px;
 }
 
+#img-download:hover {
+    width: 400px;
+}
+
 .lendo {
     display: flex;
     align-items: center;
